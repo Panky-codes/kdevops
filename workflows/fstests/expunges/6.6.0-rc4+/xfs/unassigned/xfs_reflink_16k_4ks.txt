@@ -9,6 +9,7 @@ generic/263
 generic/297
 generic/298
 generic/311
+generic/340 # Crashes https://trello.com/c/6GfzRrld/135-xfs-reflink-16k-4ks-generic-340
 generic/471
 xfs/013 # Crashes
 xfs/075
