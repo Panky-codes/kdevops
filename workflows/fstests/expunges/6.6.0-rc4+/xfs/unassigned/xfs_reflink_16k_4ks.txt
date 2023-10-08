@@ -1,5 +1,6 @@
 generic/042
 generic/048
+generic/074
 generic/091
 generic/130
 generic/161
@@ -10,6 +11,7 @@ generic/297
 generic/298
 generic/311
 generic/340 # Crashes https://trello.com/c/6GfzRrld/135-xfs-reflink-16k-4ks-generic-340
+generic/346 # Crashes https://trello.com/c/4A2F9BN2/137-xfs-reflink-16-4ks-generic-346
 generic/471
 xfs/013 # Crashes
 xfs/075
