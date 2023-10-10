@@ -23,6 +23,7 @@ generic/436
 generic/451 # Crashes https://trello.com/c/OEaW3Iws/134-xfs-reflink-64k-4ks-generic-451
 generic/455
 generic/457
+generic/464
 generic/471
 generic/476 # OOM https://trello.com/c/sN9IFKGL/136-xfs-reflink-64k-4ks-generic-476-oom
 generic/482
@@ -37,6 +38,7 @@ xfs/075
 xfs/078
 xfs/080
 xfs/110
+xfs/129
 xfs/139
 xfs/140
 xfs/155
@@ -51,6 +53,7 @@ xfs/234
 xfs/236
 xfs/270
 xfs/273
+xfs/442 # Crahes https://trello.com/c/PeS7gLpt/143-xfs-refline-64k-4ks-xfs-442
 xfs/495
 xfs/503
 xfs/513
