@@ -12,6 +12,7 @@ generic/457 # Crashes https://trello.com/c/lJWLMhEK/138-xfs-reflink-1024-generic
 generic/469
 generic/471
 generic/531
+xfs/013
 xfs/075
 xfs/168
 xfs/188

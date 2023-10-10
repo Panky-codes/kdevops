@@ -14,6 +14,7 @@ generic/251
 generic/263
 generic/297
 generic/298
+generic/299
 generic/305
 generic/311
 generic/326
@@ -49,6 +50,8 @@ xfs/229
 xfs/234
 xfs/236
 xfs/270
+xfs/273
+xfs/495
 xfs/503
 xfs/513
 xfs/553
