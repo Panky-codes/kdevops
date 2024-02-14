@@ -1,6 +1,0 @@
-generic/630
-xfs/008
-xfs/033
-xfs/188
-xfs/597
-xfs/598
