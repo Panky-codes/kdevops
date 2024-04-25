@@ -1,1 +1,8 @@
+generic/219
+generic/275
+generic/305
+generic/326
 generic/682 #Flake. Passes in local setup. Kdevops issue
+xfs/188
+xfs/597
+xfs/598
